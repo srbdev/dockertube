@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-docker run --rm -it -v ${PWD}:/downloads dockertube $1
+docker run --rm -it -v ${PWD}:/downloads youtube-dl $1
