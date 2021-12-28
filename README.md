@@ -1,6 +1,6 @@
 # y2a
 
-YouTube-to-audio is a containerized utility to turn a YouTube video into a mp3 audio file.
+YouTube-to-Audio is a containerized utility to turn a YouTube video into a mp3 audio file.
 
 ## Getting Started
 
