@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-docker build -t youtube-dl .
+docker build -t y2a .
