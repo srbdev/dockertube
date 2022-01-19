@@ -5,7 +5,7 @@ YouTube-to-Audio is a containerized utility to turn a YouTube video into a mp3 a
 ## Getting Started
 
 ```bash
-git clone git clone git@github.com:srbdev/y2a.git && cd y2a
+git clone git@github.com:srbdev/y2a.git && cd y2a
 bash build.bash
 ```
 
