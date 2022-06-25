@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-docker run --rm -it -v ${PWD}:/downloads y2a $1
+docker run --rm -it -v ${PWD}:/home/youtuber/downloads y2a $1
