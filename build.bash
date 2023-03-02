@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-docker build -t y2a .
+docker build --pull --no-cache -t y2a .
